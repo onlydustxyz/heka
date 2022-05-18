@@ -27,6 +27,17 @@
 
 Heka is a tool measuring the Contribution friendliness of a Github repository.
 
+This project is composed of 3 parts:
+1. Back-end to fetch information 
+   - Different sources (github, ...)
+   - Store data in datastore
+
+2. REST API to expose those data
+
+3. Data visualization
+   - Chrome extension for in-browser visualisation
+   - Website
+
 ## 🎗️ Prerequisites
 
 ## 📦 Installation
@@ -36,6 +47,7 @@ Heka is a tool measuring the Contribution friendliness of a Github repository.
 ## 🌡️ Testing
 
 ## 🫶 Contributing
+For contribution ideas, please refer to the [contribution page](https://contributions.onlydust.xyz).
 
 ## 📄 License
 
