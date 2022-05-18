@@ -2,7 +2,7 @@
     <img src="resources/img/logo.png">
 </p>
 <div align="center">
-  <h1 align="center">ProjectName</h1>
+  <h1 align="center">Heka</h1>
   <p align="center">
     <a href="https://discord.gg/onlydust">
         <img src="https://img.shields.io/badge/Discord-6666FF?style=for-the-badge&logo=discord&logoColor=white">
@@ -15,7 +15,7 @@
     </a>
   </p>
   
-  <h3 align="center">Project description</h3>
+  <h3 align="center">Heka is a tool measuring the Contribution friendliness of a Github repository.</h3>
 </div>
 
 > ## ⚠️ WARNING! ⚠️
@@ -24,6 +24,8 @@
 > Expect rapid iteration.
 
 ## 🎟️ Description
+
+Heka is a tool measuring the Contribution friendliness of a Github repository.
 
 ## 🎗️ Prerequisites
 
@@ -37,4 +39,12 @@
 
 ## 📄 License
 
-**ProjectName** is released under the [MIT](LICENSE).
+**heka** is released under the [MIT](LICENSE).
+
+## ❓ Reference 
+
+Heka was the deification of magic and medicine in ancient Egypt.
+
+The power of open-source has something magical in it. And measuring how friendly is a repository regarding open-source contributors could play a healthy role.
+
+We want to empower the open-source contributors and bring them the best tools to contribute efficiently to open-source projects.
